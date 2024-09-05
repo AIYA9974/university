@@ -8,3 +8,4 @@ public class CircleTest {
 		System.out.println(c.getArea());
 	}
 }
+
