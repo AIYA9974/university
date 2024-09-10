@@ -11,3 +11,4 @@ public class CircleTest {
 		System.out.println(Circle.count );	//2
 	}
 }
+

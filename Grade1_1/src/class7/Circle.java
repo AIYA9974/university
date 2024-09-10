@@ -4,6 +4,7 @@ public class Circle {
 	int x,y;
 	int radius;
 	static int count;
+	final static double PI =3.14; 
 	
 	public Circle() {
 		this.radius = 0;
@@ -20,3 +21,4 @@ public class Circle {
 	}
 }
 
+ 
