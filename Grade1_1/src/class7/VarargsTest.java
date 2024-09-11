@@ -14,6 +14,7 @@ public class VarargsTest {
 		doSomethings("Hello","world");
 		
 		String[] strs = {"apple","orange"};
-		doSomethings(strs);
+		doSomethings(strs); 
 	}
 }
+
